@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=384000,RESOLUTION=1280x720
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+http://vo01.mohdtv.com:8880/live/voby1872/17497519/28816.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=280000,RESOLUTION=854x480
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+http://vo01.mohdtv.com:8880/live/voby1872/17497519/28816.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=192000,RESOLUTION=640x360
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+http://vo01.mohdtv.com:8880/live/voby1872/17497519/28816.m3u8
