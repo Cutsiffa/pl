@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXTINF:1,
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=45336&extension=ts&play_token=ra4dB9yj1Q
