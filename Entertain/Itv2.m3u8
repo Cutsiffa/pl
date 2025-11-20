@@ -1,8 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-TARGETDURATION:1
-#EXT-X-I-FRAMES-ONLY
-#EXT-X-DISCONTINUITY-SEQUENCE:2
-#EXTINF:1,
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=30532&extension=ts&play_token=yYg9nnGOiS
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/53671.m3u8
