@@ -1,8 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-https://tv.casindo.org/hls/51/51.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149818.m3u8
 
+#https://tv.casindo.org/hls/51/51.m3u8
 #http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=1165918&extension=m3u8
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200742.m3u8
 #http://filex.tv:8080/live/Home329/Sohailhome/302297.m3u8
