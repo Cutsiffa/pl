@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://filex.me:8080/live/000003/000003/302279.m3u8
+http://103.146.197.250:25461/live/daeng/tmgrh/24.m3u8
 
+#http://filex.me:8080/live/000003/000003/302279.m3u8
 ##http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 #http://filex.tv:8080/live/Home329/Sohailhome/302279.m3u8
