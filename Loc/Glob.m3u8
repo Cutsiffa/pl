@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://103.146.197.250:25461/live/daeng/tmgrh/13.m3u8
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/7657.m3u8
 
 #http://filex.me:8080/live/000003/000003/302247.m3u8
