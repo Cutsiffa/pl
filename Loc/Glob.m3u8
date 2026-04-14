@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=383014&extension=m3u8&play_token=I0D2ZK33qB
+http://exm3u.extraott.com:80/live/YHHE2CE2/83UUKJC8/7657.m3u8
 
-#http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/7657.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=383014&extension=m3u8&play_token=I0D2ZK33qB
 #http://filex.me:8080/live/000003/000003/302247.m3u8
