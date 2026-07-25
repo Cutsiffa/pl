@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
+http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7
+
+#http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
