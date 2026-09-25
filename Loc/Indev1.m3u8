@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-https://live2.zundrixmediapipeline.com/live/channel13.m3u8
+http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34327.m3u8
+
+#https://live2.zundrixmediapipeline.com/live/channel13.m3u8
