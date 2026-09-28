@@ -1,9 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-https://live2.zktsva.app/live/289650.m3u8
+http://31.43.191.125:8080/live/VIP013901729009150111/f2bed74245dd/34327.m3u8
 
 #https://live2.zundrixmediapipeline.com/live/channel5.m3u8
 #https://live2.zktsva.app/live/432017.m3u8
 #https://live2.zundrixmediapipeline.com/live/channel1.m3u8
-#http://31.43.191.125:8080/live/VIP013901729009150111/f2bed74245dd/34327.m3u8
