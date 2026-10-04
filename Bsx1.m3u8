@@ -1,9 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1858608.m3u8
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1858604.m3u8
-
-#http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/228100.m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:51:32:B0&stream=894995&extension=m3u8&play_token=J1vCfIXF3D
