@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1513532.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242254&extension=ts&play_token=dQ3H5KWWK8
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1547797.m3u8
-
-#http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/78.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985162&extension=ts&play_token=WWVwhIulxG
