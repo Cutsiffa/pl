@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+https://proxy-b.rctiplus.id/live/mweb/rcti/rcti-sdi.m3u8?auth_key=1791358311-57bbb530c5a10b7ad71ebf6cb933c4f9-0-d744f0bf1fa53bdeaba1691333666db8
 
 #http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34327.m3u8
